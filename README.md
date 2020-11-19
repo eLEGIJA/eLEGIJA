@@ -1,3 +1,3 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eLEGIJA&layout=compact&hide=html" alt="anteeone" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=eLEGIJA&show_icons=true" alt="anteeone" />
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=eLEGIJA" alt="eLEGIJA" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eLEGIJA" alt="eLEGIJA" /> </p>
