@@ -1,5 +1,4 @@
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/msafflow?darkmode=true)](https://github.com/JaeSeoKim/badge42)
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/msafflow?cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/msafflow?cursus=C%20Piscine?darkmode=true)](https://github.com/JaeSeoKim/badge42)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eLEGIJA&layout=compact&hide=htm&theme=radical&hide_border=1&bg_color=0c1116&text_color=fb94a7" alt="eLEGIJA" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=eLEGIJA&show_icons=true&theme=radical&hide_border=1&bg_color=0c1116&text_color=fb94a7" alt="eLEGIJA" />
